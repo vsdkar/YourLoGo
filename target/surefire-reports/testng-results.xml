@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="8" passed="8">
+  <reporter-output>
+    <line>
+      <![CDATA[Title is matching: My Store]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="390939" started-at="2020-10-29T03:34:06Z" finished-at="2020-10-29T03:40:37Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="390939" started-at="2020-10-29T03:34:06Z" finished-at="2020-10-29T03:40:37Z">
+      <class name="scripts.TestScripts">
+        <test-method status="PASS" signature="preCondition()[pri:0, instance:scripts.TestScripts@4387b79e]" name="preCondition" is-config="true" duration-ms="6200" started-at="2020-10-28T22:34:06Z" finished-at="2020-10-28T22:34:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method status="PASS" signature="PurchaseSmall()[pri:0, instance:scripts.TestScripts@4387b79e]" name="PurchaseSmall" duration-ms="42324" started-at="2020-10-28T22:34:12Z" finished-at="2020-10-28T22:34:54Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Title is matching: My Store]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- PurchaseSmall -->
+        <test-method status="PASS" signature="postcondition()[pri:0, instance:scripts.TestScripts@4387b79e]" name="postcondition" is-config="true" duration-ms="611" started-at="2020-10-28T22:34:54Z" finished-at="2020-10-28T22:34:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postcondition -->
+        <test-method status="PASS" signature="preCondition()[pri:0, instance:scripts.TestScripts@4387b79e]" name="preCondition" is-config="true" duration-ms="6148" started-at="2020-10-28T22:34:55Z" finished-at="2020-10-28T22:35:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method status="PASS" signature="purchasemedium()[pri:0, instance:scripts.TestScripts@4387b79e]" name="purchasemedium" duration-ms="40956" started-at="2020-10-28T22:35:01Z" finished-at="2020-10-28T22:35:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- purchasemedium -->
+        <test-method status="PASS" signature="postcondition()[pri:0, instance:scripts.TestScripts@4387b79e]" name="postcondition" is-config="true" duration-ms="620" started-at="2020-10-28T22:35:42Z" finished-at="2020-10-28T22:35:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postcondition -->
+        <test-method status="PASS" signature="preCondition()[pri:0, instance:scripts.TestScripts@4387b79e]" name="preCondition" is-config="true" duration-ms="6645" started-at="2020-10-28T22:35:43Z" finished-at="2020-10-28T22:35:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method status="PASS" signature="purchaselarge()[pri:0, instance:scripts.TestScripts@4387b79e]" name="purchaselarge" duration-ms="40461" started-at="2020-10-28T22:35:49Z" finished-at="2020-10-28T22:36:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- purchaselarge -->
+        <test-method status="PASS" signature="postcondition()[pri:0, instance:scripts.TestScripts@4387b79e]" name="postcondition" is-config="true" duration-ms="596" started-at="2020-10-28T22:36:30Z" finished-at="2020-10-28T22:36:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postcondition -->
+        <test-method status="PASS" signature="preCondition()[pri:0, instance:scripts.TestScripts@4387b79e]" name="preCondition" is-config="true" duration-ms="5169" started-at="2020-10-28T22:36:30Z" finished-at="2020-10-28T22:36:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method status="PASS" signature="dresscasualdresssmallsize()[pri:0, instance:scripts.TestScripts@4387b79e]" name="dresscasualdresssmallsize" duration-ms="63455" started-at="2020-10-28T22:36:35Z" finished-at="2020-10-28T22:37:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dresscasualdresssmallsize -->
+        <test-method status="PASS" signature="postcondition()[pri:0, instance:scripts.TestScripts@4387b79e]" name="postcondition" is-config="true" duration-ms="613" started-at="2020-10-28T22:37:39Z" finished-at="2020-10-28T22:37:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postcondition -->
+        <test-method status="PASS" signature="preCondition()[pri:0, instance:scripts.TestScripts@4387b79e]" name="preCondition" is-config="true" duration-ms="6365" started-at="2020-10-28T22:37:40Z" finished-at="2020-10-28T22:37:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method status="PASS" signature="dresscasualdressmediumsize()[pri:0, instance:scripts.TestScripts@4387b79e]" name="dresscasualdressmediumsize" duration-ms="63050" started-at="2020-10-28T22:37:46Z" finished-at="2020-10-28T22:38:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dresscasualdressmediumsize -->
+        <test-method status="PASS" signature="postcondition()[pri:0, instance:scripts.TestScripts@4387b79e]" name="postcondition" is-config="true" duration-ms="574" started-at="2020-10-28T22:38:49Z" finished-at="2020-10-28T22:38:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postcondition -->
+        <test-method status="PASS" signature="preCondition()[pri:0, instance:scripts.TestScripts@4387b79e]" name="preCondition" is-config="true" duration-ms="5784" started-at="2020-10-28T22:38:50Z" finished-at="2020-10-28T22:38:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method status="PASS" signature="dresscasualdressLargesize()[pri:0, instance:scripts.TestScripts@4387b79e]" name="dresscasualdressLargesize" duration-ms="55523" started-at="2020-10-28T22:38:55Z" finished-at="2020-10-28T22:39:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dresscasualdressLargesize -->
+        <test-method status="PASS" signature="postcondition()[pri:0, instance:scripts.TestScripts@4387b79e]" name="postcondition" is-config="true" duration-ms="603" started-at="2020-10-28T22:39:51Z" finished-at="2020-10-28T22:39:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postcondition -->
+        <test-method status="PASS" signature="preCondition()[pri:0, instance:scripts.TestScripts@4387b79e]" name="preCondition" is-config="true" duration-ms="5783" started-at="2020-10-28T22:39:51Z" finished-at="2020-10-28T22:39:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method status="PASS" signature="ClickMyAddress()[pri:0, instance:scripts.TestScripts@4387b79e]" name="ClickMyAddress" duration-ms="17015" started-at="2020-10-28T22:39:57Z" finished-at="2020-10-28T22:40:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickMyAddress -->
+        <test-method status="PASS" signature="postcondition()[pri:0, instance:scripts.TestScripts@4387b79e]" name="postcondition" is-config="true" duration-ms="514" started-at="2020-10-28T22:40:14Z" finished-at="2020-10-28T22:40:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postcondition -->
+        <test-method status="PASS" signature="preCondition()[pri:0, instance:scripts.TestScripts@4387b79e]" name="preCondition" is-config="true" duration-ms="5324" started-at="2020-10-28T22:40:15Z" finished-at="2020-10-28T22:40:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method status="PASS" signature="ClickMyPersonalInfo()[pri:0, instance:scripts.TestScripts@4387b79e]" name="ClickMyPersonalInfo" duration-ms="16038" started-at="2020-10-28T22:40:20Z" finished-at="2020-10-28T22:40:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickMyPersonalInfo -->
+        <test-method status="PASS" signature="postcondition()[pri:0, instance:scripts.TestScripts@4387b79e]" name="postcondition" is-config="true" duration-ms="560" started-at="2020-10-28T22:40:36Z" finished-at="2020-10-28T22:40:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postcondition -->
+      </class> <!-- scripts.TestScripts -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
